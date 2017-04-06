@@ -12,6 +12,7 @@ Status:
 
 
 Contributers:
+
 Alexandra Bryant - Team Lead, Game Mechanics and Animation
 
 Dan Biedger - Hololens Mechanics and Adaptation
